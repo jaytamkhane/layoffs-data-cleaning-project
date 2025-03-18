@@ -13,7 +13,7 @@ This project demonstrates how raw layoffs data was cleaned and structured using 
 | File | Description |
 |------|-------------|
 | [cleaned_layoffs.csv](https://github.com/jaytamkhane/layoffs-data-cleaning-project/blob/main/cleaned%20layoffs.csv) | Cleaned layoffs dataset in CSV format |
-| [cleaned_layoffs_script.sql] | The complete SQL script used for data cleaning |
+| [cleaned_layoffs_script.sql](https://github.com/jaytamkhane/layoffs-data-cleaning-project/blob/main/cleaned%20layoffs%20script.sql) | The complete SQL script used for data cleaning |
 
 ## ✅ Key Steps in Data Cleaning
 - Removed duplicate records  
