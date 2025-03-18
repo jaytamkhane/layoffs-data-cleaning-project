@@ -11,7 +11,7 @@ This project demonstrates how raw layoffs data was cleaned and structured using 
 ## 📁 Project Structure
 | File                          | Description                                        |
 | ----------------------------- | -------------------------------------------------- |
-| `cleaned_layoffs.csv`         | Cleaned layoffs dataset in CSV format              |
+| [cleaned_layoffs.csv](cleaned layoffs.csv)        | Cleaned layoffs dataset in CSV format              |
 | `cleaned_layoffs_script.sql`  | The complete SQL script used for data cleaning     |
 
 ## ✅ Key Steps in Data Cleaning
