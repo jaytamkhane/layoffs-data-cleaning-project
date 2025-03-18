@@ -8,11 +8,12 @@ This project demonstrates how raw layoffs data was cleaned and structured using 
 - **Python (Optional)** – For additional analysis and automation (planned in the next phase)  
 - **Power BI** – For visualization (in progress)  
 
-## 📁 Project Structure
-| File                          | Description                                        |
-| ----------------------------- | -------------------------------------------------- |
-| [cleaned_layoffs.csv](cleaned layoffs.csv)        | Cleaned layoffs dataset in CSV format              |
-| `cleaned_layoffs_script.sql`  | The complete SQL script used for data cleaning     |
+## Project Structure
+
+| File | Description |
+|------|-------------|
+| [cleaned_layoffs.csv](cleaned_layoffs.csv) | Cleaned layoffs dataset in CSV format |
+| [cleaned_layoffs_script.sql](cleaned_layoffs_script.sql) | The complete SQL script used for data cleaning |
 
 ## ✅ Key Steps in Data Cleaning
 - Removed duplicate records  
